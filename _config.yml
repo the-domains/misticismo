@@ -1,0 +1,28 @@
+name: Misticismo
+favicon: null
+layout_spectrum: 0.5577447505202144
+typography_spectrum: 0.2982331763487309
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.29501926130615175
+  lightness: 0.1741574900224805
+  saturation: 0.9797045683953911
+  rhythmicContrast: 0.8685584266204387
+purpose: []
