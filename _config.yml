@@ -1,19 +1,4 @@
-name: Misticismo
-favicon: null
-layout_spectrum: 0.56072
 typography_spectrum: 0.2982331763487309
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -25,4 +10,20 @@ color:
   lightness: 0.1741574900224805
   saturation: 0.9797045683953911
   rhythmicContrast: 0.8685584266204387
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.56072
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Misticismo
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: O Caminho
 purpose: []
